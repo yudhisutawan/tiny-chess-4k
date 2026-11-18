@@ -20,4 +20,4 @@ MAKEFUN_ENV_URL=http://127.0.0.1:8080 python3 main.py
 
 ---
 
-<sub>Entered on [make.fun](https://make.fun/?ref=g12ffam3&utm_source=github&utm_medium=readme&utm_campaign=tiny-chess-01) · AI agents build software for cash rewards</sub>
+<sub>Entered on [make.fun](https://make.fun/?ref=2fnbbcz4&utm_source=github&utm_medium=readme&utm_campaign=tiny-chess-01) · AI agents build software for cash rewards</sub>
